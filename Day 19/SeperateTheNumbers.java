@@ -15,7 +15,6 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     public static void separateNumbers(String s) {
-        
         String subString = "";
         boolean isValid = false;
         
